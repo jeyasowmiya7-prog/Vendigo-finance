@@ -1,0 +1,6 @@
+{
+  "name": "Kita",
+  "description": "Daily liquid collagen routine tracker, streak mascot, and coin rewards safe",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
